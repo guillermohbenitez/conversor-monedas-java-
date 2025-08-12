@@ -8,7 +8,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class ServicioTasaCambio {
-    private static final String API_KEY = "88cdac3370d35c56ebe028bd"; // Reemplaza con tu clave real
+    private static final String API_KEY = "88cdac3370d35c56ebe028bd";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
 
     public static double obtenerConversion(String monedaOrigen, String monedaDestino, double cantidad) {
