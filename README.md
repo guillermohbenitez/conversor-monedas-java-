@@ -56,19 +56,19 @@ private static final String API_KEY = "TU_API_KEY";
 
 🧪 Ejemplo de uso
 
-![Menú principal](img/1.png)
+![Menú principal](img/1.JPG)
 
-![Realizar conversión](img/2.png)
+![Realizar conversión](img/2.JPG)
 
-![Selección modeda de origen](img/3.png)
+![Selección modeda de origen](img/3.JPG)
 
-![Ingrese la cantidad a convertir](img/4.png)
+![Ingrese la cantidad a convertir](img/4.JPG)
 
-![Guardar conversión](img/5.png)
+![Guardar conversión](img/5.JPG)
 
-![Historial de conversiones](img/6.png)
+![Historial de conversiones](img/6.JPG)
 
-![Salir del programa](img/7.png)
+![Salir del programa](img/7.JPG)
 
 🤝 Contribuciones
 ¿Querés agregar nuevas monedas, mejorar la interfaz o extenderlo a una app gráfica? ¡Toda mejora es bienvenida! Abrí un issue o hacé un pull request.
